@@ -33,15 +33,15 @@ Created all the art assets for the game using Inkscape.
   ###
 ### Project was made while I was studying in DigiPen Institute of Technology
 ### Team name: Orbital Launch
-Team member | Role
------------- | -----
+Team member       | Role
+------------      | -----
 Myself            |  Graphics, Gameplay and Art
 Romil Tendulkar   | Gameplay, Audio and Scripting
 Trevor Herron     |  Engine, Graphics and Music
 
-# Random-Terrain-Solver 
-
-### Game Created: Modulo
+# Game Created using the engine: Modulo
 2D Puzzle Platformer game.
 
 ### [MODULO](https://drive.google.com/open?id=1ni8cLi3Cnb1-GfdBFxlCC-h-9aIEY8Xb)
+
+The Above link consists the game setup and trailer.
