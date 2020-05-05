@@ -40,6 +40,8 @@ Romil Tendulkar   | Gameplay, Audio and Scripting
 Trevor Herron     |  Engine, Graphics and Music
 
 # Random-Terrain-Solver 
-###Game Created: Modulo
+
+### Game Created: Modulo
 2D Puzzle Platformer game.
-###[MODULO](https://drive.google.com/open?id=1ni8cLi3Cnb1-GfdBFxlCC-h-9aIEY8Xb)
+
+### [MODULO](https://drive.google.com/open?id=1ni8cLi3Cnb1-GfdBFxlCC-h-9aIEY8Xb)
