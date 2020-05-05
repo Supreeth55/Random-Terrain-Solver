@@ -14,7 +14,7 @@ Created all the art assets for the game using Inkscape.
 ### Game Engine(Random Terrain Solver)
 #### Core:
   * Programming Language: C++
-  * * Engine architecture: Component System
+  * Engine architecture: Component System
   * Serialization: JSON ([rapidjson](http://rapidjson.org/))
   * UI: [ImGui](https://github.com/ocornut/imgui)
   * Window Manager: [glfw](https://www.glfw.org/)
