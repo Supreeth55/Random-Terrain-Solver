@@ -28,8 +28,7 @@ Created all the art assets for the game using Inkscape.
 #### Other
   * Math library: [glm](https://glm.g-truc.net/)
   * Audio engine: [fmod](https://www.fmod.com/)
-  * Interpolation of variables: [tweeny](https://github.com/mobius3/tweeny)
-  * File System: [dirent](https://github.com/tronkko/dirent)
+ 
   ###
 ### Project was made while I was studying in DigiPen Institute of Technology
 ### Team name: Orbital Launch
